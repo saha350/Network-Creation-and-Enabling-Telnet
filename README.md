@@ -13,4 +13,4 @@ NETWORK ADDRESS IS 192.168.10.0.255.255.255.0
 Verify the connectivity between each network
 
 # Task 3:
-Enable TELNET on SWITCH 1 and access from LAN 3 Netwrok.
+Enable TELNET on SWITCH 1 and access from LAN 3 Network.
